@@ -55,10 +55,7 @@ To begin the process of setting up the project, one needs to first initialize th
   *Image: Backend Folder Structure*
 
   After navigating to the backend folder in the integrated terminal, installing Express.js is the next step using the “npm init” command for the “package.json” file. Then I installed some dependencies like the Express server using the “npm install express” command for the node modules folder
-
-</div>
-
-<div>
+<br><br>
 
   <img width="624" height="313" alt="image" src="https://github.com/user-attachments/assets/e4be873d-f075-47ad-b13e-ee823589d9b9" />
 
