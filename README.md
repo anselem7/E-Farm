@@ -36,7 +36,7 @@ To begin the process of setting up the project, one needs to first initialize th
 
 *Image: Front-end folder structure* 
 
-
+<br><br>
  I created the following folder names within the “src” folder: Components, Pages, and Context. The Components folder houses a collection of class components, while the Pages folder is dedicated to crafting the e-commerce web pages. The Context folder, on the other hand, serves as the home for the Context API.
 
 <div>
