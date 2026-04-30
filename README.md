@@ -7,7 +7,7 @@ For the objective of developing an agricultural e-commerce platform, this projec
 The objective of the project is to address critical difficulties that are encountered by agricultural stakeholders, such as accessibility to markets, inefficiencies in supply chain operations, and information dissemination.
 This will be accomplished through the utilization of modern webpage technologies.
 
-### Skills Learned
+## Skills Learned
 
 - Developed a full-stack web app connecting farmers to buyers using MongoDB, Express, React, Node.js.
 - Built RESTful APIs for authentication, product catalog, and order management.
@@ -15,7 +15,7 @@ This will be accomplished through the utilization of modern webpage technologies
 - Created a responsive React UI optimized for mobile and desktop users.
 - Deployed and maintained the app on the cloud, ensuring scalable performance.
 
-### Tools Used
+## Tools Used
 
 - Javascript
 - HTML
