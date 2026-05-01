@@ -1,6 +1,6 @@
 # E-Farm
 
-## Objective
+## 📌Objective
 
 
 For the objective of developing an agricultural e-commerce platform, this project shows the implementation of a web application that makes use of the MERN (MongoDB, Express.js, React.js, and Node.js) stack. 
