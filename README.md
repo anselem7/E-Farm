@@ -28,7 +28,7 @@ This will be accomplished through the utilization of modern webpage technologies
 
 ## 📈 Steps
 
-To begin the process of setting up the project, one needs to first initialize the structure of the project and install any necessary dependencies. 
+### 1. To begin the process of setting up the project, one needs to first initialize the structure of the project and install any necessary dependencies. 
 
 
 <img width="288" height="350" alt="image" src="https://github.com/user-attachments/assets/a8b1b71e-9660-4492-b06e-e28e2b038943" />
