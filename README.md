@@ -28,7 +28,8 @@ This will be accomplished through the utilization of modern webpage technologies
 
 ## 📈 Steps
 
-### 1. To begin the process of setting up the project, one needs to first initialize the structure of the project and install any necessary dependencies. 
+### 1.
+To begin the process of setting up the project, one needs to first initialize the structure of the project and install any necessary dependencies. 
 
 
 <img width="288" height="350" alt="image" src="https://github.com/user-attachments/assets/a8b1b71e-9660-4492-b06e-e28e2b038943" />
@@ -37,7 +38,8 @@ This will be accomplished through the utilization of modern webpage technologies
 *Image: Front-end folder structure* 
 
 <br><br>
- I created the following folder names within the “src” folder: Components, Pages, and Context. The Components folder houses a collection of class components, while the Pages folder is dedicated to crafting the e-commerce web pages. The Context folder, on the other hand, serves as the home for the Context API.
+### 2. 
+I created the following folder names within the “src” folder: Components, Pages, and Context. The Components folder houses a collection of class components, while the Pages folder is dedicated to crafting the e-commerce web pages. The Context folder, on the other hand, serves as the home for the Context API.
 
 <div>
 
@@ -54,6 +56,7 @@ This will be accomplished through the utilization of modern webpage technologies
   
   *Image: Backend Folder Structure*
 
+### 3. 
   After navigating to the backend folder in the integrated terminal, installing Express.js is the next step using the “npm init” command for the “package.json” file. Then I installed some dependencies like the Express server using the “npm install express” command for the node modules folder
 <br><br>
 
@@ -61,6 +64,7 @@ This will be accomplished through the utilization of modern webpage technologies
 
   *Image: MongoDB Cluster*
 
+### 4. 
 Establishing a connection between the backend server and MongoDB database in order to store and retrieve agricultural data.
 Using a cloud-based MongoDB service such as MongoDB Atlas, the first step is to create a project and build a database. Then establish a connection between the database and the Express server.
 
