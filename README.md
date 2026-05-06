@@ -28,7 +28,7 @@ This will be accomplished through the utilization of modern webpage technologies
 
 ## 📈 Steps
 
-### 1.
+### 1. Environment Setup
 To begin the process of setting up the project, one needs to first initialize the structure of the project and install any necessary dependencies. 
 
 
