@@ -56,7 +56,7 @@ I created the following folder names within the “src” folder: Components, Pa
   
   *Image: Backend Folder Structure*
 
-### 3. 
+### 3. Server Initialization
   After navigating to the backend folder in the integrated terminal, installing Express.js is the next step using the “npm init” command for the “package.json” file. Then I installed some dependencies like the Express server using the “npm install express” command for the node modules folder
 <br><br>
 
