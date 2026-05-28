@@ -52,10 +52,10 @@ I created the following folder names within the “src” folder: Components, Pa
  *Images: E-farmers Homepage & Login/Signup page* 
 
 <br><br>
-  <img width="282" height="206" alt="image" src="https://github.com/user-attachments/assets/d137d21b-02d1-4f36-94b3-9bf1a8b5baa2" />
-  
+  <img width="282" height="206" alt="image" src="https://github.com/user-attachments/assets/d137d21b-02d1-4f36-94b3-9bf1a8b5baa2" /> <br>
   *Image: Backend Folder Structure*
-
+  <br><br>
+  <br><br>
 ### 3. Server Initialization
   After navigating to the backend folder in the integrated terminal, installing Express.js is the next step using the “npm init” command for the “package.json” file. Then I installed some dependencies like the Express server using the “npm install express” command for the node modules folder
 <br><br>
@@ -63,6 +63,7 @@ I created the following folder names within the “src” folder: Components, Pa
   <img width="624" height="313" alt="image" src="https://github.com/user-attachments/assets/e4be873d-f075-47ad-b13e-ee823589d9b9" />
 
   *Image: MongoDB Cluster*
+<br><br>
 <br><br>
 ### 4. Database Setup and Integration
 Establishing a connection between the backend server and MongoDB database in order to store and retrieve agricultural data.
