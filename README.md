@@ -68,7 +68,8 @@ I created the following folder names within the “src” folder: Components, Pa
 ### 4. Database Setup and Integration
 Establishing a connection between the backend server and MongoDB database in order to store and retrieve agricultural data.
 Using a cloud-based MongoDB service such as MongoDB Atlas, the first step is to create a project and build a database. Then establish a connection between the database and the Express server.
-
+<br><br>
+<br><br>
 
 </div>
 
