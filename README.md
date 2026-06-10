@@ -45,11 +45,13 @@ I created the following folder names within the “src” folder: Components, Pa
 
   
   <img width="611" height="351" alt="image" src="https://github.com/user-attachments/assets/4a3cb750-0735-43c3-a5f4-59814fa4be10" />
-  <br><br>
-  <br><br>
+
+ 
+  *Image: E-farmers Homepage*
+  
   <img width="624" height="394" alt="image" src="https://github.com/user-attachments/assets/22165583-9883-4ea4-b688-4049c053bba3" />
 
- *Images: E-farmers Homepage & Login/Signup page* 
+ *Image: E-farmers Login/Signup page* 
 
 <br><br>
   <img width="282" height="206" alt="image" src="https://github.com/user-attachments/assets/d137d21b-02d1-4f36-94b3-9bf1a8b5baa2" /> <br>
