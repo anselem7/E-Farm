@@ -3,7 +3,7 @@
 ## 📌 Objective
 
 
-For the objective of developing an agricultural e-commerce platform, this project shows the implementation of a web application that makes use of the MERN (MongoDB, Express.js, React.js, and Node.js) stack. 
+For the objective of developing an agricultural e-commerce platform, this project shows the implementation of a web application that makes use of the MERN stack (MongoDB, Express.js, React.js, and Node.js). 
 The objective of the project is to address critical difficulties that are encountered by agricultural stakeholders, such as accessibility to markets, inefficiencies in supply chain operations, and information dissemination.
 This will be accomplished through the utilization of modern webpage technologies.
 
