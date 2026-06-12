@@ -23,7 +23,7 @@ This will be accomplished through the utilization of modern webpage technologies
 - React.js
 - Node.js
 - Express.js
-- MongoDB 
+- MongoDB(Atlas)
 
 
 ## 📈 Steps
