@@ -35,7 +35,7 @@ To begin the process of setting up the project, one needs to first initialize th
 <img width="288" height="350" alt="image" src="https://github.com/user-attachments/assets/a8b1b71e-9660-4492-b06e-e28e2b038943" />
 
 
-*Image: Front-end folder structure* 
+***Image**: Front-end folder structure* 
 
 <br><br>
 ### 2. React Project Structure
