@@ -47,7 +47,7 @@ I created the following folder names within the “src” folder: Components, Pa
   <img width="611" height="351" alt="image" src="https://github.com/user-attachments/assets/4a3cb750-0735-43c3-a5f4-59814fa4be10" />
 
  
-  *Image: E-farmers Homepage*
+  ***Image**: E-farmers Homepage*
   
   <img width="624" height="394" alt="image" src="https://github.com/user-attachments/assets/22165583-9883-4ea4-b688-4049c053bba3" />
 
