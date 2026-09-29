@@ -51,7 +51,7 @@ I created the following folder names within the “src” folder: Components, Pa
   
   <img width="624" height="394" alt="image" src="https://github.com/user-attachments/assets/22165583-9883-4ea4-b688-4049c053bba3" />
 
- *Image: E-farmers Login/Signup page* 
+ ***Image**: E-farmers Login/Signup page* 
 
 <br><br>
   <img width="282" height="206" alt="image" src="https://github.com/user-attachments/assets/d137d21b-02d1-4f36-94b3-9bf1a8b5baa2" /> <br>
