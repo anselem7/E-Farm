@@ -64,7 +64,7 @@ I created the following folder names within the “src” folder: Components, Pa
 
   <img width="624" height="313" alt="image" src="https://github.com/user-attachments/assets/e4be873d-f075-47ad-b13e-ee823589d9b9" />
 
-  *Image: MongoDB Cluster*
+  ***Image**: MongoDB Cluster*
 <br><br>
 ### 4. Database Setup and Integration
 Establishing a connection between the backend server and MongoDB database in order to store and retrieve agricultural data.
